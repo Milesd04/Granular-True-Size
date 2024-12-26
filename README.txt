@@ -2,5 +2,5 @@ Web based map using Leaflet Truesize for visualizing different geographic region
 Essentially a clone of TrueSizeOf; however, I'd like to focus on adding cities and other smaller
 geographic units/subdivisions to allow people to see how their city compares to others.
 
-Inspired by a conversation with friends from Houston and Pasadena who wanted to see their cities
-juxtaposed against Boston/Cambridge, so these were the first two geometries added to this project!
+Inspired by a conversation with friends from Houston and Pasadena (the first two geometries added to this project!) 
+who wanted to see their cities juxtaposed against Boston/Cambridge.
