@@ -6,3 +6,5 @@ Inspired by a conversation with friends from Houston and Pasadena (the first two
 who wanted to see their cities juxtaposed against Boston/Cambridge.
 
 https://milesd04.github.io/Granular-True-Size/
+
+Feel free to add more Geojsons :). 
