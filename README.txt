@@ -4,3 +4,5 @@ geographic units/subdivisions to allow people to see how their city compares to 
 
 Inspired by a conversation with friends from Houston and Pasadena (the first two geometries added to this project!) 
 who wanted to see their cities juxtaposed against Boston/Cambridge.
+
+https://milesd04.github.io/Granular-True-Size/
