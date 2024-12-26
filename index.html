@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Essentially a clone of TrueSizeOf except with cities and other subdivisions!">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Interactive True Size</title>
+
+  <!-- External CSS -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+  <link href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" rel="stylesheet" />
+
+  <!-- Custom CSS -->
+  <link href="styles.css" rel="stylesheet">
+
+  <!-- External JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/javascript.min.js"></script>
+  <script src="Leaflet.TrueSize.umd.js"></script>
+  <script src="https://unpkg.com/leaflet-truesize"></script>
+
+  <script>hljs.initHighlightingOnLoad();</script>
+</head>
+
+<body>
+  <div id="docs">
+    <div class="centered">
+      <div class="map-wrapper">
+        <div id="map"></div>
+        <button class="activate-btn">Activate Map</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
